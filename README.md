@@ -88,6 +88,9 @@ Si el último dígito de la cédula es 3, la cédula es válida.
 ### Instalación
 Si deseas usar esta función en tu proyecto, simplemente copia el código de la función isCedulaValid en tu archivo JavaScript.
 
+---
+Por [Johan Olmos](https://portfolio.jfodev.com/) 
+
 ### Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes alguna mejora, no dudes en abrir un issue o enviar un pull request.
 
